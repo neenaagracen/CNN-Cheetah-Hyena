@@ -1,11 +1,11 @@
-# 🧠 CNN Image Classification – Cheetah vs Hyena
+#  CNN Image Classification – Cheetah vs Hyena
 
-This project implements a Convolutional Neural Network (CNN) to classify images of **Cheetahs 🐆** and **Hyenas 🐺**.
+This project implements a Convolutional Neural Network (CNN) to classify images of **Cheetahs ** and **Hyenas **.
 The model is trained using image data and deployed using Streamlit for real-time predictions.
 
 ---
 
-## 📌 Features
+##  Features
 
 * Image classification using CNN
 * Binary classification (Cheetah vs Hyena)
@@ -14,7 +14,7 @@ The model is trained using image data and deployed using Streamlit for real-time
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * TensorFlow / Keras
@@ -24,7 +24,7 @@ The model is trained using image data and deployed using Streamlit for real-time
 
 ---
 
-## ⚙️ How it Works
+##  How it Works
 
 1. Images are resized to 128×128 pixels
 2. CNN extracts features using convolution and pooling layers
@@ -33,7 +33,7 @@ The model is trained using image data and deployed using Streamlit for real-time
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 streamlit run app.py
@@ -41,7 +41,7 @@ streamlit run app.py
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 CNN_Project/
@@ -54,23 +54,23 @@ CNN_Project/
 
 ---
 
-## 📸 Output
+##  Output
 
 ![App Screenshot](screenshot.png)
 
 The app allows users to upload an image and predicts whether it is:
-- Cheetah 🐆
-- Hyena 🐺
+- Cheetah 
+- Hyena 
 
 ---
 
-## ⚠️ Model File Note
+##  Model File Note
 
 Due to GitHub file size limitations, the trained model file (`cnn_model.h5`) is not included in this repository.
 However, the model can be recreated by running the provided notebook (`model.ipynb`).
 
 ---
 
-## 📝 Note
+##  Note
 
 This is a basic prototype model trained on a limited dataset. Accuracy may vary for unseen images.
