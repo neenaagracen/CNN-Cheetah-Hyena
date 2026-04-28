@@ -56,10 +56,11 @@ CNN_Project/
 
 ## 📸 Output
 
-The Streamlit app allows users to upload an image and displays whether it is a:
+![App Screenshot](screenshot.png)
 
-* **Cheetah 🐆**
-* **Hyena 🐺**
+The app allows users to upload an image and predicts whether it is:
+- Cheetah 🐆
+- Hyena 🐺
 
 ---
 
